@@ -1,2 +1,2 @@
 # telegram-bot-shop
-This is a bot which can help with selling any products.
+This is an example of a showcase bot, created by https://t.me/Fedor_math
